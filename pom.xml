@@ -10,14 +10,14 @@
     <version>1.0-SNAPSHOT</version>
 
     <!-- ================================================================= -->
-    <!-- Distribution Management -->
+    <!-- Distribution Management  asdfasd-->
     <!-- ================================================================= -->
     <distributionManagement>
         <repository>
             <id>${nexus.id}</id>
             <name>SMS Releases Repository</name>
             <url>${nexus.releases}</url>
-        </repository>
+        </repository> 
         <snapshotRepository>
             <id>${nexus.id}</id>
             <name>SMS Snapshots Repository</name>
