@@ -14,7 +14,8 @@ public class MessageApplication extends Application {
         singletons.add(new MessageRestService());
     }
 
-    @Override
+	
+    @Override 
     public Set<Object> getSingletons() {
         return singletons;
     }
